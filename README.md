@@ -19,6 +19,7 @@ Script will automatically find path of key3.db and signons.sqlite in linux syste
 Usage:
 python firefoxpasswords.py
 This version of the scirpt does not take any argument and works on linux systems.
+if you can right click the mouse button inspect element, by doing so you can know the password.
 
 Dependencies :
 
